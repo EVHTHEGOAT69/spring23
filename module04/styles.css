@@ -16,3 +16,14 @@ header h1 {
     background-position: top left;
     background-repeat: no-repeat;
 }
+
+#container {
+    margin-bottom: 30px;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    color: #7c1a00;
+}
